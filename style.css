@@ -10,6 +10,7 @@ h1 {
 
 p {
   color: #cdd6f4
+  text-align: center;
 }
 
 hr {
@@ -20,6 +21,7 @@ hr {
 a {
   color: #89dceb;
   text-decoration: none;
+  text-align: center;
 }
 
 a:visited {
