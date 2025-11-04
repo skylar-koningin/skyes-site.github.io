@@ -1,0 +1,32 @@
+body { 
+  font-family: 'JetBrains Mono', monospace;
+  background-color: #1e1e2e; 
+}
+
+h1 {
+  color: #cba6f7;
+  text-align: center;
+}
+
+p {
+  color: #cdd6f4
+}
+
+hr {
+  border: none;
+  background-color: #cba6f7;
+}
+
+a {
+  color: #89dceb;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #b4befe;
+}
+
+a:hover {
+  color: #a6e3a1;
+  text-decoration: underline;
+}
